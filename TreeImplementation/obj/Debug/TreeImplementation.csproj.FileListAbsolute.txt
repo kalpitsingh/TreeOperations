@@ -1,0 +1,6 @@
+c:\users\kalsingh\documents\visual studio 2015\Projects\TreeImplementation\TreeImplementation\bin\Debug\TreeImplementation.exe.config
+c:\users\kalsingh\documents\visual studio 2015\Projects\TreeImplementation\TreeImplementation\obj\Debug\TreeImplementation.csprojResolveAssemblyReference.cache
+c:\users\kalsingh\documents\visual studio 2015\Projects\TreeImplementation\TreeImplementation\bin\Debug\TreeImplementation.exe
+c:\users\kalsingh\documents\visual studio 2015\Projects\TreeImplementation\TreeImplementation\bin\Debug\TreeImplementation.pdb
+c:\users\kalsingh\documents\visual studio 2015\Projects\TreeImplementation\TreeImplementation\obj\Debug\TreeImplementation.exe
+c:\users\kalsingh\documents\visual studio 2015\Projects\TreeImplementation\TreeImplementation\obj\Debug\TreeImplementation.pdb
